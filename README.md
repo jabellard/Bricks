@@ -1,2 +1,2 @@
 # Bricks
-Microservice platform.
+Microservice building blocks.
